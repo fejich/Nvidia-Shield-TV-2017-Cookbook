@@ -95,7 +95,7 @@
 
     有几条指令需要较长时间，务必耐心等待。途中不要做任何操作
 
-16.使用手柄X键和Y键，将绿色光标定位于“Boot recovery kernel”，按手柄A键
+16. 使用手柄X键和Y键，将绿色光标定位于“Boot recovery kernel”，按手柄A键
 
 17. 此时，屏幕显示一个躺着的Android小人，并提示“No Command”。按手柄B键，可进入类似原生Android的刷机界面，在此处，分别执行以“wipe”开头的两条  命令，即“双清”
 
