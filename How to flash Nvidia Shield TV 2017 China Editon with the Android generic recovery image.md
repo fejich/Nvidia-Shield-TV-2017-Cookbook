@@ -129,8 +129,10 @@
 
 24. 等待一段时间，看到命令提示符中“finished”，之后按手柄A键，Nvidia Shield TV 2017会自动重启两次，重启过程中会有两次警示界面，此时不要做任何操作
 
-25. 待Nvidia Shield TV 2017重启后，依照显示器上的提示，联网并激活设备
+25. 待Nvidia Shield TV 2017重启后，依照显示器上的提示，联网并激活设备。至此完成刷机
 
 > 1）进入到桌面后无需翻墙，更新至最新版系统方可观看 Netflix
+
 > 2）不翻墙情况下会弹出：”网络已连接，但提示无法连接到互联网“，解决办法是打开 adb 调试，修改联网监测服务器为 google.cn
+
 > adb shell settings put global captive_portal_https_url https://www.google.cn/generate_204
