@@ -123,6 +123,7 @@
     fastboot oem lock
     ```
     > 如果这个命令在电脑上报错，可操作手柄于 Shield TV 显示器上选择上锁。效果一样
+    
     > 注意，执行该指令会擦除Nvidia Shield TV 2017中的全部数据，如有必要，务必提前备份相关文件
 
     进入bootloader锁定提示界面，此时，按手柄A键
